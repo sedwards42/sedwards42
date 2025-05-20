@@ -1,11 +1,7 @@
-## Hi there 👋
+Sam is currently a research assistant under the mentorship of Dr. Shalaila Haas and Dr. Muhammad Parvaz. He graduated from the University of Minnesota with a Bachelors of Science in psychology and minors in integrative neuroscience and philosophy. Sam’s past research focused on the use of fMRI data analysis to identify early visual processing differences found with schizophrenia. His primary research interests lie in using computational methods to uncover the relationship between the physical brain and behavioral outcomes. Sam ultimately hopes to advance the field of precision medicine for mental disorders. Outside of the lab, he is a classical pianist, an avid blacksmith, and passionate about the outdoors.
 
-<!--
-**sedwards42/sedwards42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
